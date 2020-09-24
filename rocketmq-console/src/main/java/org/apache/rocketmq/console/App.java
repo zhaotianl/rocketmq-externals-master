@@ -24,6 +24,7 @@ import org.springframework.boot.web.servlet.ServletComponentScan;
 @ServletComponentScan
 public class App {
     //测试一下下西爱爱爱
+    //rocket.....
     public static void main(String[] args) {
         SpringApplication.run(App.class, args);
     }
