@@ -24,6 +24,11 @@ import org.springframework.boot.web.servlet.ServletComponentScan;
 @ServletComponentScan
 public class App {
   /**22222222222222222*/
+
+//ddddd
+    //测试一下下西爱爱爱
+
+/**11111111111111111*/
     public static void main(String[] args) {
         SpringApplication.run(App.class, args);
     }
