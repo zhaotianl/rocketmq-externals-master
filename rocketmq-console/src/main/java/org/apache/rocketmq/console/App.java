@@ -23,7 +23,7 @@ import org.springframework.boot.web.servlet.ServletComponentScan;
 @SpringBootApplication
 @ServletComponentScan
 public class App {
-
+  /**22222222222222222*/
     public static void main(String[] args) {
         SpringApplication.run(App.class, args);
     }
